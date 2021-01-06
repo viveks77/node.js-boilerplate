@@ -59,9 +59,9 @@ JWT_ENCRY_KEY={ENCRYPTION_KEY}
 
 `POST /register` - register\
 `POST /login` - login\
-`POST /user/logout` - logs out user
-`POST /user/logoutall` - logs out user of all devices (deletes all auth tokens)
-`GET /user/me` - get user information
+`POST /user/logout` - logs out user\
+`POST /user/logoutall` - logs out user of all devices (deletes all auth tokens)\
+`GET /user/me` - get user information\
 
 
 ## Authentication
